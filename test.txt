@@ -1,1 +1,4 @@
 你好，我在测试
+
+远程库和本地库不一致问题：
+git pull --rebase origin master
