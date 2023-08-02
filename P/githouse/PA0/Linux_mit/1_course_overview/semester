@@ -1,0 +1,2 @@
+#!/bim/usr
+curl --head --silent https://baidu.com

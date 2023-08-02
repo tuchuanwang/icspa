@@ -1,0 +1,33 @@
+7月 22 17:08:33 wang-VirtualBox systemd[1025]: Startup finished in 765ms.
+7月 22 17:08:34 wang-VirtualBox systemd[1]: Startup finished in 1.842s (kernel) + 3.008s (userspace) = 4.851s.
+7月 22 17:08:41 wang-VirtualBox systemd[1595]: Startup finished in 2.058s.
+7月 18 21:02:36 wang-VirtualBox systemd[1026]: Startup finished in 1.237s.
+7月 18 21:02:38 wang-VirtualBox systemd[1]: Startup finished in 2.576s (kernel) + 4.412s (userspace) = 6.988s.
+7月 18 21:02:44 wang-VirtualBox systemd[1599]: Startup finished in 3.146s.
+7月 18 21:00:20 wang-VirtualBox systemd[1025]: Startup finished in 1.278s.
+7月 18 21:00:22 wang-VirtualBox systemd[1]: Startup finished in 2.412s (kernel) + 4.727s (userspace) = 7.140s.
+7月 18 21:00:28 wang-VirtualBox systemd[1606]: Startup finished in 3.083s.
+7月 18 19:52:19 wang-VirtualBox systemd[1023]: Startup finished in 739ms.
+7月 18 19:52:20 wang-VirtualBox systemd[1]: Startup finished in 2.798s (kernel) + 3.039s (userspace) = 5.837s.
+7月 18 19:52:31 wang-VirtualBox systemd[1598]: Startup finished in 2.371s.
+7月 17 19:38:13 wang-VirtualBox systemd[1099]: Startup finished in 1.320s.
+7月 17 19:38:15 wang-VirtualBox systemd[1]: Startup finished in 2.687s (kernel) + 5.410s (userspace) = 8.098s.
+7月 17 19:38:20 wang-VirtualBox systemd[1621]: Startup finished in 3.040s.
+7月 10 09:18:31 wang-VirtualBox systemd[1032]: Startup finished in 1.333s.
+7月 10 09:18:33 wang-VirtualBox systemd[1]: Startup finished in 1.557s (kernel) + 4.830s (userspace) = 6.387s.
+7月 10 09:20:19 wang-VirtualBox systemd[1625]: Startup finished in 3.046s.
+7月 07 17:12:43 wang-VirtualBox systemd[1075]: Startup finished in 1.005s.
+7月 07 17:12:44 wang-VirtualBox systemd[1]: Startup finished in 2.050s (kernel) + 4.180s (userspace) = 6.230s.
+7月 07 17:12:49 wang-VirtualBox systemd[1592]: Startup finished in 2.203s.
+7月 05 16:12:18 wang-VirtualBox systemd[1090]: Startup finished in 808ms.
+7月 05 16:12:19 wang-VirtualBox systemd[1]: Startup finished in 2.710s (kernel) + 3.237s (userspace) = 5.948s.
+7月 05 16:12:37 wang-VirtualBox systemd[1653]: Startup finished in 2.166s.
+7月 04 09:51:56 wang-VirtualBox systemd[1041]: Startup finished in 722ms.
+7月 04 09:51:57 wang-VirtualBox systemd[1]: Startup finished in 2.016s (kernel) + 3.467s (userspace) = 5.483s.
+7月 04 09:52:01 wang-VirtualBox systemd[1615]: Startup finished in 2.137s.
+7月 05 02:24:52 wang-VirtualBox systemd[166095]: Startup finished in 659ms.
+7月 05 02:41:28 wang-VirtualBox systemd[168750]: Startup finished in 4min 14.520s.
+7月 05 14:30:00 wang-VirtualBox systemd[298713]: Startup finished in 31.469s.
+7月 03 19:27:20 wang-VirtualBox systemd[1016]: Startup finished in 1.720s.
+7月 03 19:27:22 wang-VirtualBox systemd[1]: Startup finished in 1.786s (kernel) + 4.906s (userspace) = 6.693s.
+7月 03 19:27:28 wang-VirtualBox systemd[1596]: Startup finished in 2.958s.
