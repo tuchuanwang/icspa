@@ -48,6 +48,8 @@ module alu #(
                         case (op_in_r)
                                 add: result = a_in_r + b_in_r;
                                 sub: result = a_in_r + (~b_in_r+1'b1);
+															//  sub: result = a_in_r + (~b_in_r+6'h3);
+
                                 default: result = '0;
                         endcase
                 end
@@ -61,6 +63,7 @@ module alu #(
                 end else begin
                         out       <= result;
                         out_valid <= in_valid_r;
+									//			out_valid <= 1'b1;
                 end
         end
 
